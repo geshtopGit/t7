@@ -4,10 +4,22 @@ const a=()=>{
 }
 const b=()=>{
  return '5'
+}
+
+const c=()=>{
+return "new function"
 
 }
 const e=()=>{
- return "function e"
+console.log("bbb");
 
 }
- 
+const f=()=>{
+console.log("fff");
+
+}
+const g=()=>{
+console.log("ggg");
+
+}
+
