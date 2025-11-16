@@ -7,6 +7,6 @@ const b=()=>{
 
 }
 const c=()=>{
-console.log("new function");
+return "new function";
 
 }
