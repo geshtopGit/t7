@@ -8,18 +8,8 @@ const b=()=>{
 
 const c=()=>{
 return "new function"
-
-}
-const e=()=>{
-console.log("bbb");
-
-}
-const f=()=>{
-console.log("fff");
-
 }
 const g=()=>{
 console.log("ggg");
 
 }
-
