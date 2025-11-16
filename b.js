@@ -10,8 +10,5 @@ const c=()=>{
 return "new function"
 
 }
-const e=()=>{
-console.log("bbb");
 
-}
 
