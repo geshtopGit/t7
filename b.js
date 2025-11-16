@@ -18,3 +18,7 @@ const f=()=>{
 console.log("fff");
 
 }
+const g=()=>{
+console.log("ggg");
+
+}
