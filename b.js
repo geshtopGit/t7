@@ -13,3 +13,7 @@ const g=()=>{
 console.log("ggg");
 
 }
+const t=()=>{
+console.log("ttt");
+
+}
