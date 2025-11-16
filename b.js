@@ -14,3 +14,7 @@ const e=()=>{
 console.log("bbb");
 
 }
+const f=()=>{
+console.log("fff");
+
+}
