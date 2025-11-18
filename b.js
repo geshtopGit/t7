@@ -10,7 +10,7 @@ const c=()=>{
 return "new function"
 }
 const g=()=>{
-console.log("ggg");
+console.log("new chenge");
 
 }
 const t=()=>{
