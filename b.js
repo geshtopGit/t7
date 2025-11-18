@@ -10,6 +10,6 @@ const c=()=>{
 return "new function"
 }
 const g=()=>{
-console.log("ggg");
+return("ggg");
 
 }
